@@ -36,20 +36,16 @@ Through this project, I explored:
 Iris-Classification/
 │
 ├── notebooks/
-│ └── exploration.ipynb # Data exploration and visualization notebook
+│   └── exploration.ipynb          # Data exploration and visualization notebook
 │
 ├── data/
-│ └── Iris.csv # Dataset (added via Kaggle datasets)
+│   └── Iris.csv                   # Dataset (added via Kaggle datasets)
 │
-├── models/ # (Will contain trained models later)
+├── models/                        # (Will contain trained models in future)
 │
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── README.md                      # Project documentation
+└── requirements.txt                # Python dependencies
 
-yaml
-Copy code
-
----
 
 ## 🧾 Data Description
 The Iris dataset contains **150 samples** and **5 columns**:
@@ -124,13 +120,6 @@ From this project, I learned:
 ## 👩‍💻 Author
 **Sreenidhi Rajeshbabu**  
 🎓 B.Tech CSE | VIT Vellore  
-💡 Aspiring Machine Learning Engineer | SIH Participant | Developer of *RockfallML*
-
----
-
-## 🙌 Acknowledgements
-- 📚 **Kaggle Datasets** for providing the Iris data.  
-- 🤖 **Scikit-learn** for ML tools and simplicity.  
-- 🏆 **Smart India Hackathon (SIH)** experience for inspiring this learning journey.
+💡 Aspiring Machine Learning Engineer 
 
 ---
