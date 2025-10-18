@@ -32,20 +32,6 @@ Through this project, I explored:
 
 ---
 
-## 📂 Project Structure
-Iris-Classification/
-│
-├── notebooks/
-│   └── exploration.ipynb          # Data exploration and visualization notebook
-│
-├── data/
-│   └── Iris.csv                   # Dataset (added via Kaggle datasets)
-│
-├── models/                        # (Will contain trained models in future)
-│
-├── README.md                      # Project documentation
-└── requirements.txt                # Python dependencies
-
 
 ## 🧾 Data Description
 The Iris dataset contains **150 samples** and **5 columns**:
